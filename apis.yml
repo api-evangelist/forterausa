@@ -33,6 +33,9 @@ description: >-
   than a software/API provider; it publishes a public marketing website and an
   llms.txt but no developer API surface.
 url: https://raw.githubusercontent.com/api-evangelist/forterausa/refs/heads/main/apis.yml
+x-api-posture: no-product-api
+x-api-posture-basis: observed
+x-api-posture-note: "The company is a climate-tech materials producer rather than a software/API provider; it publishes a public marketing website and an llms.txt but no developer API surface."
 x-type: company
 x-source: vc-portfolio
 x-backed-by:
